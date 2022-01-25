@@ -26,18 +26,20 @@
 
 - [Canal Gabul Dev](https://www.youtube.com/c/GabulDEV) - Recomendado para quem está iniciando.
 
+- [Curso-Flutter-Advanced](https://github.com/DeividWillyan/Curso-Flutter-Advanced) repositorio.
+
 ## Packages
 
 - [Flutter Packages Favorites](https://pub.dev/flutter/favorites) - Packages favoritos no pub dev
 
 ## Documentacao
-[List of state management approaches](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options) Gestão de estado.
+- [List of state management approaches](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options) Gestão de estado.
 
 ### Tests
-[Testing](https://docs.flutter.dev/testing)
-[Testes de integração](https://docs.flutter.dev/testing/integration-tests)
+- [Testing](https://docs.flutter.dev/testing)
+- [Testes de integração](https://docs.flutter.dev/testing/integration-tests)
 
-[Flutter Testing For Beginners - The Ultimate Guide](https://www.youtube.com/watch?v=RDY6UYh-nyg) guia para testes para quem está inciando no mundo FLutter.
+- [Flutter Testing For Beginners - The Ultimate Guide](https://www.youtube.com/watch?v=RDY6UYh-nyg) guia para testes para quem está inciando no mundo FLutter.
 ### DART
 
 - [Dart SDK](https://api.dart.dev/stable/2.15.1/index.html)
@@ -59,7 +61,7 @@
 - [RIVE](https://rive.app/) possibilita colocar assets animados e bonitos, sem custar o desempenho do device. Esses assests pode ser controlado dependendo de sua ação.
 - [Rive Docs](https://help.rive.app/#getting-started) guia inical.
 
-## Dicas para perfomace
+## Dicas para performace
 
 ```dart
 /// não é recomendado
@@ -159,6 +161,6 @@ class _MyWidgetState extends State<MyWidget> with MyModalMixin {
 
 ```
 ### Mais Dicas
-[Flutter tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks) é um repositorio do @vandadnp, conteudo rico, vale apena conferir.
+- [Flutter tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks) é um repositorio do @vandadnp, conteudo rico, vale apena conferir.
 ## Blogs, Medium, etc.
-[RESOCODER](https://resocoder.com/blog/) aqui temos diversos turoriais, mas todos em ingles.
+- [RESOCODER](https://resocoder.com/blog/) aqui temos diversos turoriais, mas todos em ingles.
