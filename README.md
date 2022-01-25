@@ -7,12 +7,12 @@
 
 - [Flutter Package of the week](https://www.youtube.com/watch?v=f9XQD5mf6FY&list=PLjxrf2q8roU1quF6ny8oFHJ2gBdrYN_AK) Playslist Recomendado para conhecer os diversos widgets que o Flutter tem a oferecer e aprender fazer o seu uso.
 
-- [Flutter widget of the week](https://www.youtube.com/watch?v=f9XQD5mf6FY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) Playslist dps Packages favoritos
+- [Flutter widget of the week](https://www.youtube.com/watch?v=f9XQD5mf6FY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) Playslist dos Packages favoritos
 
 - Playlist com videos longo, mas trás conhecimento avançado.
   [The boring Flutter Development Show](https://www.youtube.com/watch?v=Gz0x77Hd1GE&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl) Desafios com os devs Google.
 
-- Flutter performance tips: https://www.youtube.com/watch?v=PKGguGUwSYE
+- [Flutter performance tips](https://www.youtube.com/watch?v=PKGguGUwSYE) dicas de performance.
 
 ## Outros Canais e Cursos
 
@@ -94,7 +94,7 @@ class MyCustomWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // use sem const quando possivel, isso fará muita diferença na performace
+    // use sempre const quando possivel, isso fará muita diferença na performace
     return const SizedBox();
     }
   }
@@ -103,7 +103,8 @@ class MyCustomWidget extends StatelessWidget {
 ## Dicas para uso de modal ou snackbars
 ```dart
 /// não é recomendado
-/// criar funções que devão receber contexto, a forma melhores de se trabalhar.
+/// criar funções quereceba como parametro contexto, a forma melhores de se trabalhar.
+/// obs.: até pode se usar, mas resalva a exceções
 /// exemplo:
 class MyStore {
   void showSnackBar(BuildContext contextMain) {
