@@ -1,22 +1,22 @@
 ## Canal Oficial Flutter
 
-- Inicinado com flutter, **_videos em ingles_** [Begin learning flutter](https://www.youtube.com/watch?v=4AoFA19gbLo&list=PLjxrf2q8roU3wk7CDw4RfV3mEwOJbjx1k).
+- Iniciando com flutter, **_videos em inglês_** [Begin learning flutter](https://www.youtube.com/watch?v=4AoFA19gbLo&list=PLjxrf2q8roU3wk7CDw4RfV3mEwOJbjx1k).
 
 **_Videos curtos muito bom para conhecer os packages e widgets do flutter._**
 **_Possui legenda em portugues e outras linguas_**
 
-- [Flutter Package of the week](https://www.youtube.com/watch?v=f9XQD5mf6FY&list=PLjxrf2q8roU1quF6ny8oFHJ2gBdrYN_AK) Playslist Recomendado para conhecer os diversos widgets que o Flutter tem a oferecer e aprender fazer o seu uso.
+- [Flutter Package of the week](https://www.youtube.com/watch?v=f9XQD5mf6FY&list=PLjxrf2q8roU1quF6ny8oFHJ2gBdrYN_AK) Playslist Recomendada para conhecer os diversos widgets que o Flutter tem a oferecer e aprender fazer o seu uso.
 
 - [Flutter widget of the week](https://www.youtube.com/watch?v=f9XQD5mf6FY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) Playslist dos Packages favoritos
 
-- Playlist com videos longo, mas trás conhecimento avançado.
+- Playlist com videos longos, mas com conhecimento avançado.
   [The boring Flutter Development Show](https://www.youtube.com/watch?v=Gz0x77Hd1GE&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl) Desafios com os devs Google.
 
 - [Flutter performance tips](https://www.youtube.com/watch?v=PKGguGUwSYE) dicas de performance.
 
 ## Outros Canais e Cursos
 
-- Curso completo [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.EN_cc.BR&utm_term=_._ag_119370706961_._ad_488880694993_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_1031545_._pd__._&matchtype=&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9JYOFuq4E3ZAcFfOnwkfbvzxOPNWLEo_nKka69xIWhEeOH21o6jbLhoC7bYQAvD_BwE) Dr. Angela Yu - **_videos em ingles_**,
+- Curso completo [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.EN_cc.BR&utm_term=_._ag_119370706961_._ad_488880694993_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_1031545_._pd__._&matchtype=&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9JYOFuq4E3ZAcFfOnwkfbvzxOPNWLEo_nKka69xIWhEeOH21o6jbLhoC7bYQAvD_BwE) Dr. Angela Yu - **_videos em inglês_**,
 
 - Curso completo Official - inglês: [flutter-development-bootcamp-with-dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
 
@@ -161,4 +161,6 @@ class _MyWidgetState extends State<MyWidget> with MyModalMixin {
 ### Mais Dicas
 [Flutter tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks) é um repositorio do @vandadnp, conteudo rico, vale apena conferir.
 ## Blogs, Medium, etc.
-[RESOCODER](https://resocoder.com/blog/) aqui temos diversos turoriais, mas todos em ingles.
+[Flutter](https://resocoder.com/blog/) Medium oficial do flutter.
+[RESOCODER](https://resocoder.com/blog/) aqui temos diversos turoriais, mas todos em inglês.
+[Flutter Community](https://medium.com/flutter-community) Diversas postagens de pessoas envolvidas no mundo flutter (desempenho, design, boas praticas e muito mais)
